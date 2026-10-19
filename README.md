@@ -13,7 +13,7 @@ Platforma este live și poate fi accesată aici:
 | :---: | :---: |
 | ![Home](docs/home.png) | ![Configurator & AI Assistant](docs/configurator.png) |
 
-| Asistentul Virtual (AI) | Panoul Administrativ |
+| Checkout-ul | Panoul Administrativ |
 | :---: | :---: |
 | ![Checkout](docs/checkout.png) | ![Admin Dashboard](docs/admin.png) |
 
