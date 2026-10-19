@@ -11,11 +11,11 @@ Platforma este live și poate fi accesată aici:
 
 | Pagina Principală & Model 3D | Configuratorul de Buchete |
 | :---: | :---: |
-| ![Home](docs/home.png) | ![Configurator](docs/configurator.png) |
+| ![Home](docs/home.png) | ![Configurator & AI Assistant](docs/configurator.png) |
 
 | Asistentul Virtual (AI) | Panoul Administrativ |
 | :---: | :---: |
-| ![AI Assistant](docs/ai-assistant.png) | ![Admin Dashboard](docs/admin.png) |
+| ![Checkout](docs/checkout.png) | ![Admin Dashboard](docs/admin.png) |
 
 ## 🚀 Funcționalități Principale
 
